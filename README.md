@@ -1,25 +1,32 @@
-# Exercícios em Linguagem C
+# ⌨️ Laboratório de Práticas em Linguagem C
 
-Este repositório contém os exercícios e práticas que realizo durante o aprendizado de **Linguagem C**, parte dos meus estudos em **Análise e Desenvolvimento de Sistemas (ADS)**.
+Este repositório é dedicado ao armazenamento de exercícios, desafios e pequenos projetos desenvolvidos para consolidar a lógica de programação e o domínio da linguagem C.
 
-Os exercícios são organizados por número e cobrem os conceitos fundamentais da linguagem C, como:
+---
 
-- Funções
-- Laços de repetição
-- Estruturas de controle
-- Manipulação de dados
+## 🚀 Projetos em Destaque
 
-## Estrutura do repositório
+Aqui estão os principais exercícios desenvolvidos, cada um focado em um pilar da programação:
 
-- **exercicio1**: Calculadora simples com menu e funções.
-- **exercicio2**: (Próximo exercício em desenvolvimento)
+* **[🔤 Jogo da Forca](./exercicio3):** Projeto avançado envolvendo **manipulação de arquivos (`FILE`)**, persistência de dados, strings e arte ASCII.
+* **[🎲 Jogo de Adivinhação](./exercicio2):** Prática com **geração de números aleatórios**, níveis de dificuldade e lógica de pontuação.
+* **[🧮 Calculadora Modular](./exercicio1):** Estudo de **modularização com funções**, prototipagem e tratamento de operações matemáticas.
 
-Cada exercício contém o código-fonte e um arquivo `README.md` explicando os detalhes de implementação.
+---
 
-## Como executar os exercícios
+## 🧠 Evolução de Conceitos
+Ao navegar pelas pastas, é possível observar a progressão do aprendizado:
 
-Para rodar qualquer exercício, basta seguir as instruções contidas no arquivo `README.md` dentro de cada pasta, que geralmente inclui a utilização do **DevC++**.
+1. **Básico:** Entrada e saída de dados (`printf`/`scanf`) e operadores aritméticos.
+2. **Intermediário:** Estruturas de repetição (`for`/`while`) e condicionais aninhadas.
+3. **Avançado:** Criação de bibliotecas (`.h`), manipulação de ponteiros de arquivo e lógica de jogos.
 
-## Autor
-Kaio Campos  
-Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+---
+
+## 🛠️ Ambiente de Desenvolvimento
+- **Linguagem:** C (Padrão C99/C11)
+- **IDE:** Dev-C++ / VS Code
+- **Compilador:** GCC
+
+---
+*Repositório mantido por Kaio Campos como registro de evolução acadêmica (FATEC).*
